@@ -1,5 +1,5 @@
-# Jaehyuk Yang
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangjaehyuk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yang%20Jaehyuk&fontSize=90)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangjaehyuk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 <br/>
 `2015-03 ~ 2018.02` 인천외국어고등학교  
 `2018-03 ~ 2024.02` 한양대학교 ERICA ICT융합학부 미디어테크놀로지 전공/ 컴퓨터학부 소프트웨어전공  
