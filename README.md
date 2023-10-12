@@ -7,7 +7,8 @@
 `2023.07 ~ 2024.01` 야놀자 FE 부트캠프   
 
 ## Github Stats
-![yangjaehyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangjaehyuk)
+<img src="https://github-readme-stats.vercel.app/api?username=yangjaehyuk&theme=tokyonight&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjaehyuk&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"/>
 
 ## Frameworks
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
