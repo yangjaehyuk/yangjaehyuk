@@ -6,9 +6,12 @@
 `2023.01 ~ 2023.02` 주식회사 렉스소프트 디지털 헬스팀 인턴  
 `2023.07 ~ 2024.01` 야놀자 FE 부트캠프   
 
-## Github Stats
+## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=yangjaehyuk&theme=tokyonight&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangjaehyuk&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wogur2928)](https://solved.ac/wogur2928)
 
 ## Frameworks
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
